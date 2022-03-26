@@ -1,4 +1,4 @@
-<h1 style="text-align:center">oauth2 App</h1>
+<h1 align="center">oauth2 App</h1>
 <br>
 <div align="center">
     <img src="https://img.shields.io/badge/Framework-Expo-success">
